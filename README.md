@@ -1,0 +1,4 @@
+simpleLEX
+=========
+
+a LEX trial
